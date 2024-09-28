@@ -6,3 +6,4 @@ CUCEK
 kudackad 
 alappuzha
 kerala
+pin-code:689574
